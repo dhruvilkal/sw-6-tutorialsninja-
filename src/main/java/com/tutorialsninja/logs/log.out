@@ -1,0 +1,6 @@
+2023-12-19 22:12:911 INFO  LoginPage :37 - Verify the text “Returning Customer” [[ChromeDriver: chrome on windows (6550ec292c83953337c5e2a14c44fe45)] -> xpath: //h2[contains(text(),'Returning Customer')]]
+2023-12-19 22:12:812 INFO  LoginPage :44 - Enter email manishpatel@gmail.comto email field [[ChromeDriver: chrome on windows (d3342a9d67221ce0c52c45a8e113e6bc)] -> id: input-email]
+2023-12-19 22:12:935 INFO  LoginPage :50 - Enter password manish123to password field [[ChromeDriver: chrome on windows (d3342a9d67221ce0c52c45a8e113e6bc)] -> id: input-password]
+2023-12-19 22:12:503 INFO  LoginPage :56 - Clicking on Login Button [[ChromeDriver: chrome on windows (d3342a9d67221ce0c52c45a8e113e6bc)] -> xpath: //input[@value='Login']]
+2023-12-19 22:12:471 INFO  LoginPage :61 - Verify text “My Account” Proxy element for: DefaultElementLocator 'By.xpath: //h2[text()='My Account']'
+2023-12-19 22:12:751 INFO  RegisterPage :59 - Verify the text “Register Account”. [[ChromeDriver: chrome on windows (bba30b9afcedd7163ab6c6dd978cefcd)] -> xpath: //h1[contains(text(),'Register Account')]]
